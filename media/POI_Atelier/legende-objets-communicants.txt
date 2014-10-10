@@ -1,0 +1,3 @@
+Au plafond : une partie de la palteforme FIT (Internet des objets) pour tester des réseaux de capteurs et d'objets communicants à large échelle. 
+Au total, près de 1024 capteurs sont déployés sur quatre sites : Lille, Grenoble, Rennes et Strasbourg. 
+Enregistrant de multiples données, ces capteurs communicants répondent à un besoin accru de contrôler des phénomènes physiques et biologiques dans différents domaines : industriel, technique et scientifique, écologie et environnement, santé, sécurité, transport, domotique...  
