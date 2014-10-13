@@ -1,1 +1,0 @@
-Véhicule avec caméras, capteurs et électronique embarquée pour aide à la conduite et à la prévention d'accidents.
