@@ -29,9 +29,10 @@
 		renderer.setSize(width, height);
 
 		var sphere = new THREE.Mesh(
-			new THREE.SphereGeometry(100, 20, 20),
+			new THREE.SphereGeometry(100, 100, 60),
 			new THREE.MeshBasicMaterial({
-				map: THREE.ImageUtils.loadTexture('media/panoramas/hall.jpg')
+				map: THREE.ImageUtils.loadTexture('media/panoramas/hall.jpg'),
+				overdraw: true
 			})
 		);
 		sphere.scale.x = -1;
